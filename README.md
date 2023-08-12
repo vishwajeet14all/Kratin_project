@@ -1,3 +1,5 @@
+Use-Case  ---> In this app old lady chat with her friends and doctor online she dont have to travel to reach that particular person which person she wanted to talk it help him to leave healthier and better life
+
 
 # Talk-A-Tive
 
@@ -76,6 +78,6 @@ Start the Client
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
 ## Made By
 
-- [@Piyush-eon](https://github.com/piyush-eon)
+- [Vishwajeet Yadav]
 
   
